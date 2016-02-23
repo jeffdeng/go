@@ -1,2 +1,2 @@
-# go
-go 
+# beego api
+ use beego 
