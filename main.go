@@ -1,8 +1,8 @@
 package main
 
 import (
-	_ "apiproject/docs"
-	_ "apiproject/routers"
+	_ "goapi/docs"
+	_ "goapi/routers"
 
 	"github.com/astaxie/beego"
 )

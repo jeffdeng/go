@@ -8,7 +8,7 @@
 package routers
 
 import (
-	"apiproject/controllers"
+	"goapi/controllers"
 
 	"github.com/astaxie/beego"
 )
